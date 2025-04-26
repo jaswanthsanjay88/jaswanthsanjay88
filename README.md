@@ -1,8 +1,4 @@
-<!-- Profile header with subtle GIF background -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200px">
-</p>
-
+<!-- Clean Profile Header -->
 <h1 align="center">Hey, I'm Jaswanth 👋</h1>
 
 <p align="center">
@@ -77,8 +73,12 @@ I'm Jaswanth Sanjay — a passionate developer building **AI-powered assistants*
 
 ---
 
-> 🚀 *Currently building:* AI Desktop Assistants, 3D Games, Cybersecurity tools, Automation Frameworks
+### 🚀 Currently Building
+> AI Desktop Assistants, 3D Games, Cybersecurity Tools, Automation Frameworks
 
 ---
 
-🧠 *“Code like the future depends on it. Because it does.”*
+### 🧠 Life Motto
+> **“Code like the future depends on it. Because it does.”**
+
+---
