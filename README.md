@@ -28,7 +28,7 @@ I'm Jaswanth Sanjay — a passionate developer building **AI-powered assistants*
 ![React](https://img.shields.io/badge/React-Intermediate-yellow)
 ![C++](https://img.shields.io/badge/C++-Intermediate-yellow)
 ![Java](https://img.shields.io/badge/Java-Beginner-red)
-![SEO](https://img.shields.io/badge/SEO-Beginner-red)
+![SEO](https://img.shields.io/badge/SEO-Advanced-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Intermediate-yellow)
 ![Linux](https://img.shields.io/badge/Linux-Beginner-red)
 
