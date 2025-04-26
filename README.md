@@ -8,7 +8,8 @@
 ### 🚀 About Me
 I'm Jaswanth Sanjay — a passionate developer building **AI-powered assistants**, **automation systems**, **Telegram bots**, **3D games**, and **cybersecurity tools**.
 
-I blend code, creativity, and futuristic tech to craft intelligent systems. My expertise spans:
+I blend code, creativity, and futuristic tech to craft intelligent systems.  
+My expertise spans:
 - 🤖 AI Assistants (Jarvis-like) using GPT-4, Voice AI, and GitHub integration
 - 📦 Automation Tools (APK injectors, reverse shells, obfuscators)
 - 📸 Telegram Bots (image generation, speech-to-text, assistant bots)
@@ -20,21 +21,21 @@ I blend code, creativity, and futuristic tech to craft intelligent systems. My e
 
 ### 🔥 Tech Skills
 
-| Technology/Skill           | Proficiency |
-| :-------------------------: | :---------: |
-| LangChain (AI Frameworks)    | 87%         |
-| CSS                          | 84%         |
-| Python                       | 70%         |
-| JavaScript                   | 56%         |
-| JavaScript Libraries         | 73%         |
-| React                        | 50%         |
-| C++                          | 56%         |
-| Java                         | 40%         |
-| SEO (Search Engine Optimization) | 40%   |
-| GitHub                       | 56%         |
-| Git                           | 24%         |
-| Linux                         | 24%         |
-| Communication Skills         | 60%         |
+| Skill | Level |
+|:---|:---|
+| **LangChain** | <img src="https://progress-bar.dev/87/?title=87%25" /> |
+| **CSS** | <img src="https://progress-bar.dev/84/?title=84%25" /> |
+| **Python** | <img src="https://progress-bar.dev/70/?title=70%25" /> |
+| **JavaScript** | <img src="https://progress-bar.dev/56/?title=56%25" /> |
+| **JavaScript Libraries** | <img src="https://progress-bar.dev/73/?title=73%25" /> |
+| **React** | <img src="https://progress-bar.dev/50/?title=50%25" /> |
+| **C++** | <img src="https://progress-bar.dev/56/?title=56%25" /> |
+| **Java** | <img src="https://progress-bar.dev/40/?title=40%25" /> |
+| **SEO** | <img src="https://progress-bar.dev/40/?title=40%25" /> |
+| **GitHub** | <img src="https://progress-bar.dev/56/?title=56%25" /> |
+| **Git** | <img src="https://progress-bar.dev/24/?title=24%25" /> |
+| **Linux** | <img src="https://progress-bar.dev/24/?title=24%25" /> |
+| **Communication Skills** | <img src="https://progress-bar.dev/60/?title=60%25" /> |
 
 ---
 
@@ -66,9 +67,8 @@ I blend code, creativity, and futuristic tech to craft intelligent systems. My e
 
 ---
 
-> 🚀 Currently building: AI-powered Jarvis Desktop, smart bots, futuristic 3D games, and automation tools, pegasus3.
+> 🚀 Currently building: AI-powered Jarvis Desktop, smart bots, futuristic 3D games, and automation tools.
 
 ---
 
 🧠 *“Code like the future depends on it. Because it does.”*
-
