@@ -21,21 +21,17 @@ I'm Jaswanth Sanjay — a passionate developer building **AI-powered assistants*
 
 ### 🔥 Skills
 
-| Skill | Level |
-|:---|:---|
-| **LangChain** | <img src="https://progress-bar.dev/87/?title=87%25" /> |
-| **CSS** | <img src="https://progress-bar.dev/84/?title=84%25" /> |
-| **Python** | <img src="https://progress-bar.dev/70/?title=70%25" /> |
-| **JavaScript** | <img src="https://progress-bar.dev/56/?title=56%25" /> |
-| **JavaScript Libraries** | <img src="https://progress-bar.dev/73/?title=73%25" /> |
-| **React** | <img src="https://progress-bar.dev/50/?title=50%25" /> |
-| **C++** | <img src="https://progress-bar.dev/56/?title=56%25" /> |
-| **Java** | <img src="https://progress-bar.dev/40/?title=40%25" /> |
-| **SEO** | <img src="https://progress-bar.dev/40/?title=40%25" /> |
-| **GitHub** | <img src="https://progress-bar.dev/56/?title=56%25" /> |
-| **Git** | <img src="https://progress-bar.dev/24/?title=24%25" /> |
-| **Linux** | <img src="https://progress-bar.dev/24/?title=24%25" /> |
-| **Communication Skills** | <img src="https://progress-bar.dev/60/?title=60%25" /> |
+![LangChain](https://img.shields.io/badge/LangChain-Expert-brightgreen)
+![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![React](https://img.shields.io/badge/React-Intermediate-yellow)
+![C++](https://img.shields.io/badge/C++-Intermediate-yellow)
+![Java](https://img.shields.io/badge/Java-Beginner-red)
+![SEO](https://img.shields.io/badge/SEO-Beginner-red)
+![GitHub](https://img.shields.io/badge/GitHub-Intermediate-yellow)
+![Linux](https://img.shields.io/badge/Linux-Beginner-red)
+
 
 ---
 
