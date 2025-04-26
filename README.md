@@ -31,15 +31,15 @@ I blend code, creativity, and futuristic tech to create powerful, intelligent sy
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaswanthsany88&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthsany88&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaswanthsanjay88&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthsanjay88&theme=tokyonight" width="48%">
 </p>
 
 ---
 
 ### 🔗 Let's Connect
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/your_username)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/jaswanthsany88)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/suntzu_png)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/jaswanthsanjayy88)
 
 > 🚧 Currently building: AI-powered desktop Jarvis, smart bots, 3D game features and automation tools.
 
