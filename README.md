@@ -88,6 +88,15 @@ I'm Jaswanth Sanjay — a passionate developer building **AI-powered assistants*
 </p>
 
 ---
+## 📊 GitHub Profile Summary
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthsanjay88&theme=github_dark)
+
+
+## 🕒 My Productive Coding Times
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaswanthsanjay88&theme=github_dark)
+
+
 
 ### 🌐 Connect with Me
 
