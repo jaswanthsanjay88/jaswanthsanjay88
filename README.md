@@ -79,7 +79,11 @@ I'm Jaswanth Sanjay — a passionate developer building **AI-powered assistants*
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthsanjay88&layout=compact&theme=tokyonight&hide_border=true" width="50%">
+
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaswanthsanjay88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
 
 ---
 ## 📊 GitHub Profile Summary
