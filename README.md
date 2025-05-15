@@ -78,10 +78,10 @@ I'm Jaswanth Sanjay — a passionate developer building **AI-powered assistants*
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthsanjay88&layout=compact&theme=tokyonight&hide_border=true" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthsanjay88&layout=donut-vertical">
 
 </p>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthsanjay88&layout=donut-vertical)
+
 
 
 
