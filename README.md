@@ -81,8 +81,7 @@ I'm Jaswanth Sanjay — a passionate developer building **AI-powered assistants*
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthsanjay88&layout=compact&theme=tokyonight&hide_border=true" width="50%">
 
 </p>
-
-![GitHub Stats](https://github-readme-stats-omega-nine-62.vercel.app/api?username=jaswanthsanjay88&show_icons=true&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanthsanjay88&layout=donut-vertical)
 
 
 
