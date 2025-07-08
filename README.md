@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Jaswanth+Sanjay+%7C+Building+the+Future+with+AI" alt="Jaswanth Sanjay | Building the Future with AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Jaswanth+Sanjay+%7C+Building+the+Future+with+AI" alt="Jaswanth Sanjay | Building the Future with AGI & ASI" />
 </p>
 
 <p align="center">
@@ -17,15 +17,15 @@
 
 ---
 
-### 🚀 About Me
-I'm Jaswanth Sanjay — a passionate developer building **AI-powered assistants**, **automation systems**, **Telegram bots**, **3D games**, and **cybersecurity tools**.
+### About Me
+I'm Jaswanth Sanjay — a passionate developer building **AI-powered assistants**, **automation systems**, **Telegram bots**, **Ai Devolopment**, and **cybersecurity tools**.
 
 ⚡ I love blending creativity with technology to craft futuristic, intelligent systems!  
-🎯 Currently focused on AI voice assistants, automation frameworks, cybersecurity exploration, and creative 3D experiences.
+ Currently Researching on AGI 
 
 ---
 
-### 🔥 Skills
+###  Skills
 
 ![LangChain](https://img.shields.io/badge/LangChain-Expert-brightgreen)
 ![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
@@ -62,29 +62,29 @@ I'm Jaswanth Sanjay — a passionate developer building **AI-powered assistants*
 
 
 ---
-## 📊 GitHub Profile Summary
+##  GitHub Profile Summary
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaswanthsanjay88&theme=github_dark)
 
 
-## 🕒 My Productive Coding Times
+##  My Productive Coding Times
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaswanthsanjay88&theme=github_dark)
 
 
 
-### 🌐 Connect with Me
+###  Connect with Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/suntzu_png)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/jaswanthsanjay88)
 
 ---
 
-### 🚀 Currently Building
-> AI Desktop Assistants, 3D Games, Cybersecurity Tools, Automation Frameworks
+###  Currently Building
+> AI Desktop Assistants, Cybersecurity Tools, Automation Frameworks, Ai Agents
 
 ---
 
-### 🧠 Life Motto
-> **“Code like the future depends on it. Because it does.”**
+###  Life Motto
+> **“Building the ASI is Future Goal.”**
 
 ---
