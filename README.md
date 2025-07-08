@@ -38,30 +38,6 @@ I'm Jaswanth Sanjay — a passionate developer building **AI-powered assistants*
 ![GitHub](https://img.shields.io/badge/GitHub-Intermediate-yellow)
 ![Linux](https://img.shields.io/badge/Linux-Beginner-red)
 
-
-
-
-| Skill              | Level            |
-|-------------------|------------------|
-| **LangChain**      | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70%) |
-| **CSS**            | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%) |
-| **Python**         | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70%) |
-| **JavaScript**     | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (60%) |
-| **JavaScript Libs**| 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70%) |
-| **React**          | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%) |
-| **C++**            | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ (50%) |
-| **Java**           | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ (40%) |
-| **SEO**            | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%) |
-| **GitHub**         | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (90%) |
-| **Git**            | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%) |
-| **Linux**          | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%) |
-| **Communication**  | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70%) |
-
----
-
-
----
-
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
