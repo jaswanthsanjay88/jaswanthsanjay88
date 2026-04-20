@@ -60,7 +60,7 @@ I'm Jaswanth Sanjay — a passionate developer building **AI-powered assistants*
 
 ### 📊 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jaswanthsanjay88)](https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=jaswanthsanjay88">
 </p>
 
 ---
