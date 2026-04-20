@@ -59,7 +59,7 @@ I'm Jaswanth Sanjay — a passionate developer building **AI-powered assistants*
 </p>
 
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=jaswanthsanjay88&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaswanthsanjay88)](https://git.io/streak-stats)
 
 ---
 ##  GitHub Profile Summary
