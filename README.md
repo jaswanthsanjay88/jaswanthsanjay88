@@ -9,7 +9,7 @@
 <h1 align="center">Hey, I'm Jaswanth 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Android+%2B+Kotlin+Native+LLM+Inference;Privacy-First+Systems+Builder;AI+Agent+%26+MCP+Developer;B.Tech+Computer+Engineering+%2727-28&center=true&width=550&height=30&color=00F7FF&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=On-Device+AI+Engineer;Android+%2B+Kotlin+Native+LLM+Inference;Privacy-First+Systems+Builder;AI+Agent+%26+MCP+Developer;B.Tech+Computer+Engineering+%2727-28&center=true&width=550&height=30&color=00F7FF&size=22">
 </p>
 
 ---
